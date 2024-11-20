@@ -47,8 +47,8 @@ docker run <image_name>
 This repository showcases the implementation of a simple machine learning algorithm, docker containers and git bash
 
 ## Contributor
-
 <p align="center">
+
 |                                                                                                                                                                                                                   <a href="https://github.com/abhi526691"><img src="https://avatars.githubusercontent.com/abhi526691" width="150px" height="150px" /></a>                                                                                                                                                                                                                    |
 | :--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------: |
 |                                                                                                                                                                                                                                                             **[Abhishek Pandey](https://github.com/abhi526691)**                                                                                                                                                                                                                                                              |
@@ -67,13 +67,13 @@ This repository showcases the implementation of a simple machine learning algori
 
 <hr/>
 <hr>
+<hr> 
+
+<hr/>
+<hr>
 <hr>
                                                                                                                                                                                                                     |
 
- 
-**[Pulkit Batra](https://github.com/batrapulkit)**  
-<a href="https://github.com/batrapulkit"><img src="https://cdn.iconscout.com/icon/free/png-256/github-108-438008.png" width="32px" height="32px"></a> <a href="https://www.instagram.com/pulkit2001batra/"><img src="https://cdn.iconscout.com/icon/free/png-512/free-instagram-216-721958.png" width="32px" height="32px"></a> <a href="https://www.linkedin.com/in/pulkit-batra-14972a199/"><img src="https://i.ibb.co/Kx2GSrT/linkedin.png" width="32px" height="32px"></a><a href="https://www.facebook.com/pulkit.batra.14/"><img src="https://cdn.iconscout.com/icon/free/png-512/free-facebook-263-721950.png" width="32px" height="32px"></a>
-
-<hr/>
+ <hr/>
 <hr>
 <hr>

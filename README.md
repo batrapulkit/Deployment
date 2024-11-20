@@ -68,12 +68,3 @@ This repository showcases the implementation of a simple machine learning algori
 <hr/>
 <hr>
 <hr> 
-
-<hr/>
-<hr>
-<hr>
-                                                                                                                                                                                                                    |
-
- <hr/>
-<hr>
-<hr>

@@ -49,13 +49,26 @@ This repository showcases the implementation of a simple machine learning algori
 ## Contributor
 
 <p align="center">
-
 |                                                                                                                                                                                                                   <a href="https://github.com/abhi526691"><img src="https://avatars.githubusercontent.com/abhi526691" width="150px" height="150px" /></a>                                                                                                                                                                                                                    |
 | :--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------: |
 |                                                                                                                                                                                                                                                             **[Abhishek Pandey](https://github.com/abhi526691)**                                                                                                                                                                                                                                                              |
 | <a href="https://github.com/abhi526691"><img src="https://cdn.iconscout.com/icon/free/png-256/github-108-438008.png" width="32px" height="32px"></a> <a href="https://www.instagram.com/_abhishek__pandey___/"><img src="https://cdn.iconscout.com/icon/free/png-512/free-instagram-216-721958.png" width="32px" height="32px"></a> <a href="https://www.linkedin.com/in/abhishek-pandey-1515aa171/"><img src="https://i.ibb.co/Kx2GSrT/linkedin.png" width="32px" height="32px"></a><a href="https://www.facebook.com/abhishek10548"><img src="https://cdn.iconscout.com/icon/free/png-512/free-facebook-263-721950.png" width="32px" height="32px"></a> |
 
-|                                                                                                                                                                                                                   <a href="https://github.com/abhi526691"><img src="https://avatars.githubusercontent.com/abhi526691" width="150px" height="150px" /></a>                                                                                                                                                                                                                    |
+<hr/>
+
+<p align="center">
+<hr/>
+<hr> 
+<a href="https://avatars.githubusercontent.com/u/67047845?s=400&u=71fd8132682e8d6822f8ea748904fe86020d6e36&v=4"><img src="https://avatars.githubusercontent.com/u/67047845?s=400&u=71fd8132682e8d6822f8ea748904fe86020d6e36&v=4" width="150px" height="150px" /></a>
+</p>
+ 
+**[Pulkit Batra](https://github.com/batrapulkit)**  
+<a href="https://github.com/batrapulkit"><img src="https://cdn.iconscout.com/icon/free/png-256/github-108-438008.png" width="32px" height="32px"></a> <a href="https://www.instagram.com/pulkit2001batra/"><img src="https://cdn.iconscout.com/icon/free/png-512/free-instagram-216-721958.png" width="32px" height="32px"></a> <a href="https://www.linkedin.com/in/pulkit-batra-14972a199/"><img src="https://i.ibb.co/Kx2GSrT/linkedin.png" width="32px" height="32px"></a><a href="https://www.facebook.com/pulkit.batra.14/"><img src="https://cdn.iconscout.com/icon/free/png-512/free-facebook-263-721950.png" width="32px" height="32px"></a>
+
+<hr/>
+<hr>
+<hr>
+                                                                                                                                                                                                                    |
 
  
 **[Pulkit Batra](https://github.com/batrapulkit)**  
